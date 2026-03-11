@@ -42,7 +42,7 @@ Python | Machine Learning | HTML | CSS
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandita99saha-nishi&" alt="nandita99saha-nishi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nandita-Nishi-86&" alt="Nandita-Nishi-86" /></p>
 
 
 <!--
