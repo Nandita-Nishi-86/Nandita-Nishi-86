@@ -260,3 +260,11 @@ Electrical & Electronic Engineering
                 │
                 ▼
        Graduate Research
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Nandita-Nishi-86/Nandita-Nishi-86/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
